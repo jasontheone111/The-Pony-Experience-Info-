@@ -1,6 +1,6 @@
 # The Pony Experience
 ## The Storyline:
-AJ, RD, and Twilight accidentally find themselves on a grand adventure to defeat the Pony of Shadows once and for all, all while meeting familiar faces along the way. You as the player must comolete quests and fight enemies.
+AJ, RD, and Twilight accidentally find themselves on a grand adventure to defeat the Pony of Shadows once and for all, all while meeting familiar faces along the way. You as the player must complete quests and fight enemies.
 
 Story Mode will consist of voice acting, fully animated cutscenes, and fun gameplay.
 ## Todos:
