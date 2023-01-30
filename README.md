@@ -3,7 +3,7 @@
 AJ, RD, and Twilight accidentally find themselves on a grand adventure to defeat the Pony of Shadows once and for all, all while meeting familiar faces along the way. You as the player must complete quests and fight enemies.
 
 Story Mode will consist of voice acting, fully animated cutscenes, and fun gameplay.
-Story Modde should have more than 24 hours of gameplay.
+Story Mode should have more than 24 hours of gameplay.
 ## Todos:
 - [x] Main Menu (100% Complete)
 - [ ] Character Editor (0% Complete)
